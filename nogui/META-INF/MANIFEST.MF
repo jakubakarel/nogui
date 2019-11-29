@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Nogui
+Bundle-SymbolicName: nogui;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.ui.editors,
+ org.eclipse.text
+Automatic-Module-Name: nogui
+Bundle-RequiredExecutionEnvironment: JavaSE-11
